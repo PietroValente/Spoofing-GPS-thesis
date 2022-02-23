@@ -13,3 +13,5 @@ GPS is still the main technology that uses GNSS and there are many applications:
 In all these sectors, security is important and cannot be overshadowed, GPS spoofing is precisely a type of cyber attack that aims to falsify the location of a device.
 
 This thesis aims to study a possible safety mechanism for tracking devices, combining high precision positioning techniques and Bluetooth technology.
+
+Language: italian
